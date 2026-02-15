@@ -24,7 +24,7 @@ The repository is designed as an experimentation and learning workspace for unde
 
 * Used for natural language generation and structured responses
 * Suitable for Q&A, summarization, reasoning, and instruction following
-* Demonstrates prompt → completion workflow
+* Demonstrates prompt → completion workflows
 
 ### LLaMA2 Model
 
