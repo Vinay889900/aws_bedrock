@@ -1,3 +1,4 @@
+
 # AWS Bedrock Generative AI Models Lab
 
 This project is a practical Generative AI lab built on AWS Bedrock that demonstrates how to work with multiple foundation models for text and image generation using Python. It focuses on prompt-based inference, model comparison, and structured request handling across different large models such as Claude, LLaMA2, and Stable Diffusion.
